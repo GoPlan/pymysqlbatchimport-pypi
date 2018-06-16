@@ -1,0 +1,7 @@
+README.md
+setup.py
+pymysqlbatchimport/__init__.py
+pymysqlbatchimport.egg-info/PKG-INFO
+pymysqlbatchimport.egg-info/SOURCES.txt
+pymysqlbatchimport.egg-info/dependency_links.txt
+pymysqlbatchimport.egg-info/top_level.txt
