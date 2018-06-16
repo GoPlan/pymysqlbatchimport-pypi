@@ -1,6 +1,6 @@
 Metadata-Version: 1.1
 Name: pymysqlbatchimport
-Version: 0.4.1
+Version: 0.4.1a0
 Summary: A python wrapper of MySql import tools
 Home-page: https://github.com/GoPlan/pymysqlbatchimport.git
 Author: Duc-Anh Le

@@ -1,3 +1,4 @@
 .pyenv/
 dist/
 build/
+pymysqlbatchimport

@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="pymysqlbatchimport",
-    version="0.4.1",
+    version="0.4.1a",
     author="Duc-Anh Le",
     author_email="ducanh.le@cdelta.xyz",
     description="A python wrapper of MySql import tools",
